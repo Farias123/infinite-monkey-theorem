@@ -7,7 +7,7 @@ This program generates random text based on a given input string. It randomly se
 1. Compile the program using a C compiler such as GCC:
 
 ```bash
-gcc random_text_generator.c -o random_text_generator
+gcc infinite_monkey_theorem.c -o infinite_monkey_theorem
 ```
 
 2. Run the compiled program:
